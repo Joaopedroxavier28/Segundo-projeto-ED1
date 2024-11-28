@@ -83,6 +83,22 @@ Fornecer respostas rápidas para dúvidas comuns.
 Aumentar a usabilidade do sistema.
 
 
+# Capturas de Tela
+## Menu Principal
+![Captura de tela 2024-11-27 230218](https://github.com/user-attachments/assets/eb9acfc9-ac2e-4161-840c-8a965c887dbb)
+## Clínica Médica
+![Captura de tela 2024-11-27 230231](https://github.com/user-attachments/assets/b51dbe04-a2f1-441f-acf4-224950226525)
+## Eventos
+![Captura de tela 2024-11-27 230247](https://github.com/user-attachments/assets/070f798f-8f5d-4e88-ad7c-1cb4521d916b)
+## Restaurante
+![Captura de tela 2024-11-27 230259](https://github.com/user-attachments/assets/76e6a12a-2ab4-48ed-a90d-1f7db2e296a4)
+## Perguntas Frequentes
+![Captura de tela 2024-11-27 230312](https://github.com/user-attachments/assets/ee9b3fff-b828-4f34-be63-32a3d77faa58)
+
+
+
+
+
 
 
 
